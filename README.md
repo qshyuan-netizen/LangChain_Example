@@ -1,4 +1,4 @@
-# LangChain
+# LangChain_Example
 
 My FIRST AI application:
 
